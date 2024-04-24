@@ -1,0 +1,432 @@
+Town name,Launch,Estimated,Number,Brochure,Unnamed: 6,BTO name,BTO,latitude,longitude
+Yishun,24-Nov-11,1Q 2015,834,,Info Plans,Acacia Breeze,Yishun Acacia Breeze,1.41840746777827,103.844547664772
+Woodlands,22-May-14,2Q 2017,402,Brochure,Info Plans,Admiralty Flora,Woodlands Admiralty Flora,1.44062992421831,103.806198056529
+Woodlands,26-Nov-13,3Q 2017,993,Brochure,Info Plans,Admiralty Grove,Woodlands Admiralty Grove,1.43793037367291,103.804571100201
+Bukit Merah,05-Dec-23,59 months,904,Brochure,,Alexandra Peaks,Bukit Merah Alexandra Peaks,1.29153623788484,103.821536625633
+Bukit Merah,30-Aug-22,2Q 2028,782,Brochure,,Alexandra Vale,Bukit Merah Alexandra Vale,1.29003540887116,103.818435882644
+Bidadari,04-Feb-21,2Q 2024,353,Brochure,,Alkaff Breeze,Bidadari Alkaff Breeze,1.33674489248516,103.874525998995
+Bidadari,17-Nov-15,2Q 2020,1258,Brochure,,Alkaff CourtView,Bidadari Alkaff CourtView,1.33623671562033,103.871287596113
+Bidadari,17-Nov-15,4Q 2019,531,Brochure,,Alkaff LakeView,Bidadari Alkaff LakeView,1.33645283610396,103.87276093968
+Bidadari,24-Feb-16,4Q 2020,1594,Brochure,,Alkaff Oasis,Bidadari Alkaff Oasis,1.33454220029198,103.872229402632
+Bidadari,17-Nov-15,3Q 2019,350,Brochure,,Alkaff Vista,Bidadari Alkaff Vista,1.33378443640283,103.870408260143
+Sengkang,25-Apr-11,4Q 2014,1011,,Info Plans,Anchorvale Cove,Sengkang Anchorvale Cove,1.39798129900367,103.889866241869
+Sengkang,25-Nov-14,2Q 2018,511,Brochure,,Anchorvale Fields,Sengkang Anchorvale Fields,1.39332786581517,103.886617625113
+Sengkang,22-Sep-11,3Q 2014,717,,Info Plans,Anchorvale Harvest,Sengkang Anchorvale Harvest,1.39635987610915,103.889317071957
+Sengkang,26-Oct-10,1Q 2014,745,,Info Plans,Anchorvale Horizon,Sengkang Anchorvale Horizon,1.39494235403856,103.888535631291
+Sengkang,14-Jul-11,2Q 2014,675,,Info Plans,Anchorvale Isles,Sengkang Anchorvale Isles,1.39484510884758,103.892348012094
+Sengkang,26-Mar-14,1Q 2017,503,Brochure,Info Plans,Anchorvale Parkview,Sengkang Anchorvale Parkview,1.40031655663219,103.889802001386
+Sengkang,24-Feb-16,1Q 2020,921,Brochure,,Anchorvale Plains,Sengkang Anchorvale Plains,1.39315967650223,103.88565992411
+Sengkang,14-Nov-17,1Q 2022,207,Brochure,,Anchorvale Village,Sengkang Anchorvale Village,1.39679315311901,103.888437344772
+Ang Mo Kio,24-May-16,3Q 2020,590,Brochure,,Ang Mo Kio Court,Ang Mo Kio Ang Mo Kio Court,1.36877838877909,103.840273944362
+Yishun,30-Jul-13,1Q 2017,958,Brochure,Info Plans,Angsana Breeze @ Yishun,Yishun Angsana Breeze @ Yishun,1.41487186307545,103.840339051814
+Yishun,23-Nov-22,2Q 2028,699,Brochure,,Aranda Breeze @ Yishun,Yishun Aranda Breeze @ Yishun,1.42344845,103.85283980579011
+Sengkang,01-Dec-03,Dec-07,429,,,Aspella 1,Sengkang Aspella 1,1.3826091,103.89409728839384
+Sengkang,01-Dec-03,Dec-07,433,,,Aspella 2,Sengkang Aspella 2,1.38196364448295,103.894220636434
+Sengkang,01-Mar-04,Mar-08,424,,,Atrina 1,Sengkang Atrina 1,1.38451385,103.89431941692791
+Sengkang,01-Mar-04,Mar-08,366,,,Atrina 2,Sengkang Atrina 2,1.38460622264516,103.893737253014
+Toa Payoh,17-Nov-20,2Q 2025,880,Brochure,,Bartley Beacon,Toa Payoh Bartley Beacon,1.34172888603572,103.880577622977
+Bidadari,04-Feb-21,2Q 2025,387,Brochure,,Bartley GreenRise,Bidadari Bartley GreenRise,1.34296240098572,103.877647382192
+Bedok,22-Nov-16,2Q 2021,500,Brochure,,Bedok Beacon,Bedok Bedok Beacon,1.32449197461735,103.927900348438
+Bedok,21-Feb-24,38 months,433,,,Bedok North Springs,Bedok Bedok North Springs,1.33467015,103.93235203391248
+Bedok,22-Nov-16,2Q 2020,215,Brochure,,Bedok North Vale,Bedok Bedok North Vale,1.32998302575378,103.92558945805
+Bedok,24-May-16,2Q 2020,357,Brochure,,Bedok North Woods,Bedok Bedok North Woods,1.33043130817504,103.932566706834
+Bedok,21-Feb-24,40 months,528,,,Bedok South Bloom,Bedok Bedok South Bloom,1.3244118,103.9388343130897
+Bedok,30-May-23,3Q 2027,1640,Brochure,,Bedok South Blossoms,Bedok Bedok South Blossoms,1.3224517,103.94304691833413
+Bedok,22-Nov-16,4Q 2020 – 1Q 2021,940,Brochure,,Bedok South Horizon,Bedok Bedok South Horizon,1.31804234817897,103.947665978593
+Kallang Whampoa,30-May-12,4Q 2016,624,,Info Plans,Bendemeer Light,Kallang Whampoa Bendemeer Light,1.31550993783628,103.860952982979
+Bishan,17-Nov-20,2Q 2026,1502,Brochure,,Bishan Ridges,Bishan Bishan Ridges,1.35097730652952,103.853167358948
+Bishan,12-Aug-20,2Q 2025,472,Brochure,,Bishan Towers,Bishan Bishan Towers,1.34428135896918,103.856990983903
+Yishun,25-Nov-14,3Q 2018,650,Brochure,,Blossom Spring @ Yishun,Yishun Blossom Spring @ Yishun,1.42841338853064,103.84997365333
+Jurong West,24-Mar-11,1Q 2014,491,,Info Plans,Boon Lay Fields,Jurong West Boon Lay Fields,1.3425405618243,103.713724388304
+Jurong West,12-Feb-19,3Q 2022,775,Brochure,,Boon Lay Glade,Jurong West Boon Lay Glade,1.34121419911969,103.710203425364
+Jurong West,06-May-10,4Q 2013,450,,Info Plans,Boon Lay Grove,Jurong West Boon Lay Grove,1.34887106336149,103.708964781789
+Jurong West,16-Oct-09,Oct-13,705,,,Boon Lay Meadow,Jurong West Boon Lay Meadow,1.34805476418084,103.70810846448
+Jurong West,26-Nov-13,2Q 2017,810,Brochure,Info Plans,Boon Lay View,Jurong West Boon Lay View,1.34967446991628,103.711680539382
+Tengah,28-Feb-23,4Q 2027,1641,Brochure,,Brickland Weave,Tengah Brickland Weave,1.370792,103.74474688267513
+Hougang,24-Sep-14,4Q 2017,467,Brochure,,Buangkok Edgeview,Hougang Buangkok Edgeview,1.38544284304831,103.880763249489
+Hougang,11-Feb-15,4Q 2018,485,Brochure,,Buangkok Parkvista,Hougang Buangkok Parkvista,1.38421832537154,103.879655902357
+Hougang,24-Sep-14,2Q 2018,725,Brochure,,Buangkok Square,Hougang Buangkok Square,1.38433426615655,103.881623070164
+Hougang,11-Feb-15,3Q 2018,718,Brochure,,Buangkok Tropica,Hougang Buangkok Tropica,1.38676379959215,103.88236608837
+Hougang,05-Jan-10,1Q 2014,699,,Info Plans,Buangkok Vale,Hougang Buangkok Vale,1.38002057804576,103.877671609881
+Hougang,17-Aug-16,4Q 2019,711,Brochure,,Buangkok Woods,Hougang Buangkok Woods,1.38511499043052,103.88362378135
+Bukit Batok,22-Jan-14,4Q 2017,286,Brochure,Info Plans,Bukit Gombak Vista,Bukit Batok Bukit Gombak Vista,1.35921948269437,103.749867526921
+Bukit Merah,27-May-22,1Q 2028,1669,Brochure,,Bukit Merah Ridge,Bukit Merah Bukit Merah Ridge,1.28597342697924,103.824364531786
+Sembawang,11-Feb-20,2Q 2024 – 3Q 2024,1467,Brochure,,Canberra Vista,Sembawang Canberra Vista,1.44452273500325,103.828488951168
+Yishun,22-May-18,3Q 2021 – 4Q 2021,969,Brochure,,Casa Spring @ Yishun,Yishun Casa Spring @ Yishun,1.42679893325725,103.850691186446
+Ang Mo Kio,30-Aug-22,2Q 2028,896,Brochure,,Central Weave @ AMK,Ang Mo Kio Central Weave @ AMK,1.37463502990584,103.847441184703
+Bedok,05-Dec-23,39 / 43 months,1234,Brochure,,Chai Chee Green,Bedok Chai Chee Green,1.32998539255833,103.919863468567
+Woodlands,12-Aug-20,3Q 2024,349,Brochure,,Champions Bliss,Woodlands Champions Bliss,1.42710830386529,103.791921944436
+Woodlands,25-Feb-09,Feb-13,815,,,Champions Court,Woodlands Champions Court,1.43099377044002,103.789980599578
+Woodlands,22-May-19,3Q 2023 – 4Q 2023,722,Brochure,,Champions Green,Woodlands Champions Green,1.42801113602749,103.788742088987
+Ang Mo Kio,27-Sep-12,1Q 2018,712,,Info Plans,Cheng San Court,Ang Mo Kio Cheng San Court,1.37178732806791,103.855854368773
+Clementi,27-May-15,2Q 2020,385,Brochure,,Clementi Crest,Clementi Clementi Crest,1.31335932628171,103.763902569669
+Clementi,31-Jul-12,3Q 2016,278,,Info Plans,Clementi Gateway,Clementi Clementi Gateway,1.32231218996509,103.762352359641
+Clementi,14-Feb-17,1Q 2022 – 2Q 2022,1179,Brochure,,Clementi NorthArc,Clementi Clementi NorthArc,1.3232932221292,103.762564058716
+Clementi,14-Feb-17,2Q 2022,424,Brochure,,Clementi Peaks,Clementi Clementi Peaks,1.30935404582758,103.766876166464
+Clementi,28-Mar-12,3Q 2016,684,,Info Plans,Clementi Ridges,Clementi Clementi Ridges,1.31906441748857,103.763959814303
+Sengkang,24-Mar-11,3Q 2014,1038,,Info Plans,Compassvale Ancilla,Sengkang Compassvale Ancilla,1.38621835522425,103.89299549602
+Sengkang,01-Apr-01,Apr-05,961,,,Compassvale Arcadia,Sengkang Compassvale Arcadia,1.38374441748547,103.897046557237
+Sengkang,01-Nov-07,Nov-11,750,,,Compassvale Beacon,Sengkang Compassvale Beacon,1.38529774486579,103.900028932986
+Sengkang,30-May-12,4Q 2015,474,,Info Plans,Compassvale Boardwalk,Sengkang Compassvale Boardwalk,1.39634306210407,103.89531198929
+Sengkang,21-Mar-13,4Q 2016,1392,,Info Plans,Compassvale Cape,Sengkang Compassvale Cape,1.39769451405975,103.896320088708
+Sengkang,21-Mar-13,4Q 2016,598,,Info Plans,Compassvale Helm,Sengkang Compassvale Helm,1.38173728562845,103.890340376445
+Sengkang,21-Nov-12,2Q 2016,928,Brochure,Info Plans,Compassvale Mast,Sengkang Compassvale Mast,1.39026420160961,103.893031673035
+Sengkang,01-May-08,May-10,420,,,Compassvale Pearl,Sengkang Compassvale Pearl,1.38616395059424,103.90004017615
+Sengkang,01-Nov-06,Nov-10,390,,,Compassvale View,Sengkang Compassvale View,1.38446364084956,103.898491366571
+Sengkang,01-Sep-07,Sep-11,698,,,Coral Spring,Sengkang Coral Spring,1.39037781322244,103.876544654689
+Punggol,01-Jun-05,Jun-09,369,,,Coralinus 1,Punggol Coralinus 1,1.40429765,103.90550825621807
+Punggol,01-Feb-06,Feb-10,365,,,Coralinus 2,Punggol Coralinus 2,1.40429765,103.90550825621807
+Jurong West,29-Jul-10,2Q 2014,465,,Info Plans,Corporation Tiara,Jurong West Corporation Tiara,1.33233225216323,103.721766497129
+Pasir Ris,12-Aug-20,4Q 2025,1070,Brochure,,Costa Grove,Pasir Ris Costa Grove,1.37683016686919,103.947892455698
+Pasir Ris,27-May-11,3Q 2014,1386,,Info Plans,Costa Ris,Pasir Ris Costa Ris,1.3695904828869,103.947455951519
+Geylang,18-May-17,2Q 2021,954,Brochure,,Dakota Breeze,Geylang Dakota Breeze,1.31014283362498,103.887673486561
+Geylang,17-Feb-22,4Q 2027,443,Brochure,,Dakota Crest,Geylang Dakota Crest,1.30706487364853,103.885255092016
+Geylang,12-Aug-20,2Q 2025,421,Brochure,,Dakota One,Geylang Dakota One,1.30998133769449,103.886563879164
+Punggol,01-Dec-07,Dec-11,738,,,Damai Grove,Punggol Damai Grove,1.40461003085618,103.908665597491
+Bukit Merah,31-Jul-12,3Q 2016,418,,Info Plans,Depot Heights,Bukit Merah Depot Heights,1.28033700695655,103.813510155208
+Yishun,18-Dec-08,Dec-12,864,,,Dew Spring,Yishun Dew Spring,1.42085988799582,103.845950243324
+Sembawang,30-May-13,4Q 2016,372,Brochure,Info Plans,EastBank @ Canberra,Sembawang EastBank @ Canberra,1.44745319738571,103.833923026834
+Sembawang,30-May-13,2Q 2017,1030,Brochure,Info Plans,EastBrook @ Canberra,Sembawang EastBrook @ Canberra,1.45027967438307,103.831896894891
+Sembawang,24-May-16,4Q 2019,1252,Brochure,,EastCreek @ Canberra,Sembawang EastCreek @ Canberra,1.45139998591606,103.830859953414
+Sembawang,26-Mar-14,3Q 2017,1220,Brochure,Info Plans,EastCrown @ Canberra,Sembawang EastCrown @ Canberra,1.44498309492262,103.834013438761
+Sembawang,17-Aug-16,3Q 2019 – 4Q 2019,570,Brochure,,EastDelta @ Canberra,Sembawang EastDelta @ Canberra,1.44602265750894,103.834372150393
+Sembawang,13-Nov-18,4Q 2020,310,Brochure,,EastGlen @ Canberra,Sembawang EastGlen @ Canberra,1.4486176779133,103.829730630675
+Sembawang,26-Mar-14,2Q 2017,480,Brochure,Info Plans,EastLace @ Camberra,Sembawang EastLace @ Camberra,1.446783281453086,103.8291994247981
+Sembawang,26-Nov-13,2Q 2017,337,Brochure,Info Plans,EastLawn @ Canberra,Sembawang EastLawn @ Canberra,1.44776611412274,103.83222301056
+Sembawang,27-May-15,3Q 2019,600,Brochure,,EastLink I @ Canberra,Sembawang EastLink I @ Canberra,1.44406079105333,103.831010848735
+Sembawang,27-May-15,2Q 2019,441,Brochure,,EastLink II @ Canberra,Sembawang EastLink II @ Canberra,1.44537906713915,103.830020383661
+Sembawang,30-May-13,2Q 2017,714,Brochure,Info Plans,EastWave @ Canberra,Sembawang EastWave @ Canberra,1.44612139906122,103.831653686135
+Punggol,01-Dec-02,Dec-06,582,,,Edgedale Green,Punggol Edgedale Green,1.40069547828802,103.913340040874
+Geylang,14-Nov-17,2Q 2022,742,Brochure,,Eunos Court,Geylang Eunos Court,1.31984719632012,103.900635006177
+Bukit Panjang,28-Mar-12,4Q 2015,862,,Info Plans,Fajar Hills,Bukit Panjang Fajar Hills,1.38143384735951,103.771366304235
+Bukit Panjang,24-Nov-11,4Q 2014,264,,Info Plans,Fajar Spring,Bukit Panjang Fajar Spring,1.38450243119902,103.771537431563
+Kallang Whampoa,30-May-23,4Q 2027,569,Brochure,,Farrer Park Arena,Kallang Whampoa Farrer Park Arena,1.312381004526255,103.85160759300113
+Kallang Whampoa,28-Feb-23,2Q 2028,1274,Brochure,,Farrer Park Fields,Kallang Whampoa Farrer Park Fields,1.3109478620703383,103.84951107049784
+Bedok,21-Nov-12,4Q 2017 – 4Q 2018,1058,Brochure,Info Plans,Fengshan GreenVille,Bedok Fengshan GreenVille,1.33016612297745,103.940100315843
+Yishun,26-Mar-14,4Q 2017,1294,Brochure,Info Plans,Fern Grove @ Yishun,Yishun Fern Grove @ Yishun,1.41967264727606,103.841716733969
+Sengkang,13-Nov-18,1Q 2021,330,Brochure,,Fernvale Acres,Sengkang Fernvale Acres,1.38830347916489,103.871173506409
+Sengkang,01-Sep-05,Sep-09,500,,,Fernvale Court,Sengkang Fernvale Court,1.39219557136146,103.877963163699
+Sengkang,02-Jun-09,Jun-13,700,,,Fernvale Crest,Sengkang Fernvale Crest,1.39316539928247,103.873146095378
+Sengkang,22-May-18,1Q 2022 – 2Q 2022,1188,Brochure,,Fernvale Dew,Sengkang Fernvale Dew,1.39021265869912,103.87107471697
+Sengkang,28-Feb-11,2Q 2014,521,,Info Plans,Fernvale Flora,Sengkang Fernvale Flora,1.39396348134452,103.875363212262
+Sengkang,30-Jun-10,2Q 2014,504,,Info Plans,Fernvale Foliage,Sengkang Fernvale Foliage,1.39402599269318,103.874088270885
+Sengkang,28-Feb-11,2Q 2014,382,,Info Plans,Fernvale Gardens,Sengkang Fernvale Gardens,1.38984421252451,103.875022286615
+Sengkang,14-Nov-17,2Q 2021 – 3Q 2021,1300,Brochure,,Fernvale Glades,Sengkang Fernvale Glades,1.3932996986936,103.869441340248
+Sengkang,01-Aug-04,Aug-08,508,,,Fernvale Grove,Sengkang Fernvale Grove,1.39253429607977,103.876654122476
+Sengkang,12-Jan-12,3Q 2015,1150,,Info Plans,Fernvale Lea,Sengkang Fernvale Lea,1.39758590624145,103.878744626894
+Sengkang,16-Oct-09,Oct-13,495,,,Fernvale Palms,Sengkang Fernvale Palms,1.39439736427614,103.877202781159
+Sengkang,01-Jun-08,Jun-11,623,,,Fernvale Residence,Sengkang Fernvale Residence,1.3939583046279,103.876544200662
+Sengkang,16-Mar-10,2Q 2014,522,,Info Plans,Fernvale Ridge,Sengkang Fernvale Ridge,1.39427999598034,103.87815212939
+Sengkang,14-Jul-11,4Q 2014,1154,,Info Plans,Fernvale Riverbow,Sengkang Fernvale Riverbow,1.38976181454591,103.880095373369
+Sengkang,22-Sep-11,3Q 2015,1728,,Info Plans,Fernvale Rivergrove,Sengkang Fernvale Rivergrove,1.39696692089973,103.879438829821
+Sengkang,30-Jul-13,2Q 2017,727,Brochure,Info,Fernvale Riverwalk,Sengkang Fernvale Riverwalk,1.39158622983505,103.879874611419
+Sengkang,12-Feb-19,4Q 2022 – 1Q 2023,933,Brochure,,Fernvale Vines,Sengkang Fernvale Vines,1.39759093349331,103.875979428173
+Sengkang,01-Jul-06,Jul-10,508,,,Fernvale Vista 1,Sengkang Fernvale Vista 1,1.3921867093105702,103.87513208062104
+Sengkang,01-May-07,May-11,678,,,Fernvale Vista 2,Sengkang Fernvale Vista 2,1.3903500507142876,103.87539575582275
+Sengkang,17-Nov-15,3Q 2019,1160,Brochure,,Fernvale Woods,Sengkang Fernvale Woods,1.39183688254074,103.871190376558
+Yishun,06-May-10,1Q 2014,600,,Info Plans,Floral Spring,Yishun Floral Spring,1.4227214845963,103.846366899948
+Yishun,18-May-17,2Q 2021 – 3Q 2021,756,Brochure,,Forest Spring @ Yishun,Yishun Forest Spring @ Yishun,1.42608547414857,103.853311800607
+Tengah,25-May-21,3Q 2025,782,Brochure,,Garden Bloom @ Tengah,Tengah Garden Bloom @ Tengah,1.36055307199671,103.728441416772
+Tengah,17-Nov-20,1Q 2024,790,Brochure,,Garden Court @ Tengah,Tengah Garden Court @ Tengah,1.35962999230679,103.730410533186
+Tengah,17-Nov-20,1Q 2024,789,Brochure,,Garden Terrace @ Tengah,Tengah Garden Terrace @ Tengah,1.35711643612453,103.730236931195
+Tengah,22-May-19,2Q 2023 – 3Q 2023,987,Brochure,,Garden Vale @ Tengah,Tengah Garden Vale @ Tengah,1.36020739362341,103.733335474103
+Tengah,12-Nov-19,2Q 2023 – 3Q 2023,900,Brochure,,Garden Vines @ Tengah,Tengah Garden Vines @ Tengah,1.36017849128926,103.731095156194
+Tengah,23-Nov-22,1Q 2027,2077,Brochure,,Garden Waterfront I & II @ Tengah,Tengah Garden Waterfront I & II @ Tengah,1.3558050411261695,103.72859069596292
+Queenstown,27-May-22,1Q 2028,867,Brochure,,Ghim Moh Ascent,Queenstown Ghim Moh Ascent,1.31192385719647,103.790081278007
+Queenstown,21-Nov-12,2Q 2017,1179,Brochure,Info Plans,Ghim Moh Edge,Queenstown Ghim Moh Edge,1.30869473784381,103.784048768238
+Queenstown,23-Nov-22,1Q 2028,991,Brochure,,Ghim Moh Natura,Queenstown Ghim Moh Natura,1.30932882169755,103.784354189521
+Tampines,14-Jul-11,1Q 2014,149,,Info Plans,Golden Carnation,Tampines Golden Carnation,1.34523733884737,103.945824322208
+Bedok,24-Nov-11,4Q 2014,129,,Info Plans,Golden Cassia,Bedok Golden Cassia,1.33182858762708,103.91189196562
+Toa Payoh,28-Mar-12,3Q 2015,188,,Info Plans,Golden Clover,Toa Payoh Golden Clover,1.33130492413517,103.859019241044
+Bukit Batok,25-Jan-11,1Q 2014,180,,Info Plans,Golden Daisy,Bukit Batok Golden Daisy,1.34755153967044,103.755783055819
+Serangoon,22-Jan-14,3Q 2017,150,Brochure,Info Plans,Golden Ginger,Serangoon Golden Ginger,1.36700481675918,103.873272091323
+Bishan,01-Sep-06,Sep-10,176,,,Golden Jasmine,Bishan Golden Jasmine,1.3453342006773,103.854098182349
+Bukit Timah,28-Mar-12,3Q 2015,132,,Info Plans,Golden Kismis,Bukit Timah Golden Kismis,1.33813199271195,103.771986319841
+Jurong West,22-Jan-14,3Q 2017,149,Brochure,Info Plans,Golden Lavender,Jurong West Golden Lavender,1.34258916103914,103.696931234275
+Pasir Ris,27-May-11,4Q 2013,185,,Info Plans,Golden Lily,Pasir Ris Golden Lily,1.36809411097208,103.960172610004
+Hougang,30-May-13,4Q 2016,292,Brochure,Info Plans,Golden Mint,Hougang Golden Mint,1.3795088992027,103.886990225093
+Jurong West,14-Jul-11,2Q 2014,232,,Info Plans,Golden Orchid,Jurong West Golden Orchid,1.34863856808836,103.725086725184
+Jurong West,22-Sep-11,3Q 2014,190,,Info Plans,Golden Peony,Jurong West Golden Peony,1.34793619788802,103.715691141274
+Woodlands,27-Sep-12,2Q 2015,128,,,Golden Saffron,Woodlands Golden Saffron,1.44506585872386,103.797607810105
+Geylang,31-Jul-12,4Q 2015,338,,Info Plans,Greentops @ Sims Place,Geylang Greentops @ Sims Place,1.31659507864197,103.879545641729
+Yishun,17-Feb-22,4Q 2024,987,Brochure,,Grove Spring @ Yishun,Yishun Grove Spring @ Yishun,1.43017862357435,103.850523650163
+Bukit Batok,04-Feb-21,2Q 2024,169,,,Harmony Village @ Bukit Batok,Bukit Batok Harmony Village @ Bukit Batok,1.35523395393666,103.741758756565
+Bukit Merah,30-Aug-22,4Q 2028,869,Brochure,,Havelock Hillside,Bukit Merah Havelock Hillside,1.288706,103.83112074624464
+Choa Chu Kang,17-Nov-21,3Q 2026,68,Brochure,,Heart of Yew Tee,Choa Chu Kang Heart of Yew Tee,1.3971942776408,103.745922751197
+Hougang,24-Nov-11,1Q 2015,781,,Info Plans,Hougang Capeview,Hougang Hougang Capeview,1.37743006723556,103.903712863793
+Hougang,11-Aug-21,1Q 2025,749,Brochure,,Hougang Citrine,Hougang Hougang Citrine,1.34631621182229,103.890099192756
+Hougang,30-May-13,4Q 2016,314,Brochure,Info Plans,Hougang Crimson,Hougang Hougang Crimson,1.37517548118185,103.881990913099
+Hougang,24-Nov-11,1Q 2015,379,,Info Plans,Hougang DewCourt,Hougang Hougang DewCourt,1.36376463939134,103.894113954924
+Hougang,26-Nov-13,1Q 2017,732,Brochure,Info Plans,Hougang Meadow,Hougang Hougang Meadow,1.37009516179177,103.897233510592
+Hougang,17-Nov-21,1Q 2025,390,Brochure,,Hougang Olive,Hougang Hougang Olive,1.34801069167978,103.889231470637
+Hougang,29-Jan-13,2Q 2016,578,Brochure,Info Plans,Hougang ParkEdge,Hougang Hougang ParkEdge,1.3764123368319,103.900696707698
+Hougang,25-Apr-11,2Q 2014,792,,Info Plans,Hougang Parkview,Hougang Hougang Parkview,1.37869292010758,103.901778871412
+Hougang,17-Nov-15,3Q 2020,285,Brochure,,Hougang RiverCourt,Hougang Hougang RiverCourt,1.36274851459883,103.894906998774
+Yishun,01-Dec-07,Dec-11,384,,,Jade Spring 1,Yishun Jade Spring 1,1.42269819262201,103.845583106194
+Yishun,01-Mar-08,Mar-12,572,,,Jade Spring 2,Yishun Jade Spring 2,1.42269819262201,103.845583106194
+Toa Payoh,21-Nov-12,1Q 2016,248,Brochure,Info Plans,Joo Seng Green,Toa Payoh Joo Seng Green,1.33398953306499,103.878963482772
+Jurong West,05-Dec-23,37 months,716,Brochure,,Jurong Arcadia,Jurong West Jurong Arcadia,1.35395593997517,103.723672916192
+Jurong East,30-Aug-22,2Q 2028,562,Brochure,,Jurong East Breeze,Jurong East Jurong East Breeze,1.3434233,103.74411650347673
+Jurong West,28-Feb-23,3Q 2027,271,Brochure,,Jurong West Crystal,Jurong West Jurong West Crystal,1.33651875,103.69339537495975
+Jurong West,12-Feb-19,2Q 2022,599,Brochure,,Jurong West Jewel,Jurong West Jurong West Jewel,1.33570859607444,103.692384325863
+Kallang Whampoa,12-Feb-19,3Q 2022,411,Brochure,,Kallang Breeze,Kallang Whampoa Kallang Breeze,1.3137643727594,103.874294895776
+Kallang Whampoa,23-Nov-22,1Q 2028,477,Brochure,,Kallang Horizon,Kallang Whampoa Kallang Horizon,1.31194515456725,103.871172223837
+Kallang Whampoa,22-Nov-16,4Q 2021,243,Brochure,,Kallang Residences,Kallang Whampoa Kallang Residences,1.31143867995974,103.873325820034
+Woodlands,19-Jul-14,3Q 2017,104,Brochure,,Kampung Admiralty,Woodlands Kampung Admiralty,1.43974951798078,103.800720711621
+Choa Chu Kang,31-Jul-12,1Q 2016,1130,,Info Plans,Keat Hong Axis,Choa Chu Kang Keat Hong Axis,1.37503135118645,103.746186610645
+Choa Chu Kang,29-Jan-13,4Q 2016,968,Brochure,Info Plans,Keat Hong Colours,Choa Chu Kang Keat Hong Colours,1.3740546176425,103.746160942106
+Choa Chu Kang,30-May-13,1Q 2017,682,Brochure,Info Plans,Keat Hong Crest,Choa Chu Kang Keat Hong Crest,1.37524979404042,103.743448796988
+Choa Chu Kang,30-Aug-22,4Q 2026,987,Brochure,,Keat Hong Grange,Choa Chu Kang Keat Hong Grange,1.3745003,103.74886345296812
+Choa Chu Kang,30-May-12,2Q 2016,1143,,Info Plans,Keat Hong Pride,Choa Chu Kang Keat Hong Pride,1.37415533445512,103.742759621749
+Choa Chu Kang,27-Sep-12,1Q 2016,524,,Info Plans,Keat Hong Quad,Choa Chu Kang Keat Hong Quad,1.37659077434196,103.747461777118
+Choa Chu Kang,12-Aug-20,1Q 2023,571,Brochure,,Keat Hong Verge,Choa Chu Kang Keat Hong Verge,1.37516770596157,103.74972674844
+Choa Chu Kang,21-Nov-12,3Q 2016,1159,Brochure,Info Plans,Keat Kong Mirage,Choa Chu Kang Keat Kong Mirage,1.3784647933702676,103.74877393829188
+Ang Mo Kio,29-Jan-13,2Q 2017,283,Brochure,Info Plans,Kebun Baru Court,Ang Mo Kio Kebun Baru Court,1.36928934819166,103.834131942869
+Ang Mo Kio,12-Aug-20,1Q 2025,380,Brochure,,Kebun Baru Edge,Ang Mo Kio Kebun Baru Edge,1.36839788311495,103.833687204195
+Kallang Whampoa,22-May-19,2Q 2024 – 3Q 2024,583,Brochure,,Kempas Residences,Kallang Whampoa Kempas Residences,1.31601875088283,103.859209335509
+Kallang Whampoa,17-Nov-21,4Q 2026,430,Brochure,,Kent Heights,Kallang Whampoa Kent Heights,1.3171666017248,103.850242539799
+Yishun,26-Sep-13,2Q 2017,310,Brochure,Info Plans,Khatib Court,Yishun Khatib Court,1.4178192926766,103.832677186013
+Toa Payoh,22-May-18,2Q 2022 – 3Q 2022,542,Brochure,,Kim Keat Beacon,Toa Payoh Kim Keat Beacon,1.33168175932571,103.860094969162
+Toa Payoh,27-May-22,3Q 2027,385,Brochure,,Kim Keat Heights,Toa Payoh Kim Keat Heights,1.33788074595345,103.854373313893
+Toa Payoh,11-Feb-20,2Q 2024,708,Brochure,,Kim Keat Ripples,Toa Payoh Kim Keat Ripples,1.33323663400855,103.858374081603
+Kallang Whampoa,17-Feb-22,3Q 2027,398,Brochure,,King George’s Heights,Kallang Whampoa King George’s Heights,1.3071326935324572,103.85955008246935
+Hougang,11-Aug-21,3Q 2026,586,Brochure,,Kovan Wellspring,Hougang Kovan Wellspring,1.36002154750733,103.887417760027
+Jurong West,27-May-22,4Q 2026,1016,Brochure,,Lakeside View,Jurong West Lakeside View,1.33968579719605,103.721552203032
+Choa Chu Kang,05-Jan-10,3Q 2013,592,,Info Plans,Limbang Green,Choa Chu Kang Limbang Green,1.39394093084577,103.745574792304
+Geylang,28-Mar-12,4Q 2015,637,,Info Plans,MacPherson Residency,Geylang MacPherson Residency,1.32982009942647,103.888575094609
+Geylang,11-Feb-15,2Q 2019,750,Brochure,,MacPherson Spring,Geylang MacPherson Spring,1.3243632013344,103.889092392036
+Geylang,25-May-21,1Q 2026,1382,Brochure,,MacPherson Weave,Geylang MacPherson Weave,1.32696609771649,103.889637804311
+Woodlands,22-May-14,3Q 2018,1304,Brochure,Info Plans,Marsiling Greenview,Woodlands Marsiling Greenview,1.43627565879314,103.776472298744
+Woodlands,18-May-17,1Q 2022,1246,Brochure,,Marsiling Grove,Woodlands Marsiling Grove,1.43749421313179,103.774919689566
+Punggol,19-Jul-14,4Q 2017,1162,Brochure,,Matilda Court,Punggol Matilda Court,1.40205998268188,103.892211658905
+Punggol,26-Sep-13,4Q 2017,1330,Brochure,Info Plans,Matilda Edge,Punggol Matilda Edge,1.40133718290132,103.89496316724
+Punggol,21-Mar-13,2Q 2016,470,,Info Plans,Matilda Portico,Punggol Matilda Portico,1.40285759272701,103.89561537619
+Punggol,21-Feb-24,37 months,962,,,Matilda Riverside,Punggol Matilda Riverside,1.40224935,103.8888702819056
+Punggol,22-Nov-16,3Q 2020,490,Brochure,,Matilda Sundeck,Punggol Matilda Sundeck,1.40332247370537,103.892035446143
+Kallang Whampoa,04-Feb-21,2Q 2026,626,Brochure,,McNair Heights,Kallang Whampoa McNair Heights,1.31718193292347,103.858252810941
+Kallang Whampoa,30-May-12,4Q 2016,861,,Info Plans,McNair Towers,Kallang Whampoa McNair Towers,1.32100686964356,103.85982430866
+Yishun,25-Nov-14,4Q 2018,469,Brochure,,Meadow Spring @ Yishun,Yishun Meadow Spring @ Yishun,1.42532389372284,103.851843638346
+Yishun,13-Nov-18,4Q 2020,456,Brochure,,Melody Spring @ Yishun,Yishun Melody Spring @ Yishun,1.42839284757695,103.852265111496
+Yishun,28-Aug-18,4Q 2021,570,Brochure,,Melody Spring @ Yishun,Yishun Melody Spring @ Yishun,1.42839284757695,103.852265111496
+Yishun,23-Nov-22,2Q 2029,1334,Brochure,,Miltonia Breeze @ Yishun,Yishun Miltonia Breeze @ Yishun,1.4190852999999999,103.84967247804076
+Sembawang,15-Dec-09,Dec-13,424,,Info Plans,Montreal Dale,Sembawang Montreal Dale,1.45063212743043,103.826554055194
+Sembawang,25-Apr-11,1Q 2014,578,,Info Plans,Montreal Ville,Sembawang Montreal Ville,1.45123081086214,103.827439937897
+Jurong West,17-Nov-21,4Q 2025,221,Brochure,,Nanyang Opal,Jurong West Nanyang Opal,1.34064124532909,103.690572288577
+Punggol,14-Feb-17,3Q 2021,801,Brochure,,Northshore Cove,Punggol Northshore Cove,1.41904626961974,103.905793485343
+Punggol,14-Nov-17,4Q 2021,388,Brochure,,Northshore Edge,Punggol Northshore Edge,1.41433653472681,103.900976689316
+Punggol,27-May-15,2Q 2020,588,Brochure,,Northshore Residences I,Punggol Northshore Residences I,1.41574430868261,103.901048283157
+Punggol,27-May-15,2Q 2020,814,Brochure,,Northshore Residences II,Punggol Northshore Residences II,1.41738954587574,103.902808400387
+Punggol,17-Nov-15,3Q 2020,1021,Brochure,,Northshore StraitsView,Punggol Northshore StraitsView,1.41938824536155,103.904183981931
+Punggol,22-Nov-16,3Q 2021,409,Brochure,,Northshore Trio,Punggol Northshore Trio,1.41777471141004,103.905474865008
+Yishun,29-Jan-13,3Q 2016,688,Brochure,Info Plans,Oleander Breeze @ Yishun,Yishun Oleander Breeze @ Yishun,1.41525059406698,103.841307508116
+Yishun,25-Jan-11,4Q 2014,948,,Info Plans,Orchid Spring @ Yishun,Yishun Orchid Spring @ Yishun,1.42228680203563,103.849145310406
+Yishun,26-Sep-13,4Q 2016,546,Brochure,Info Plans,Palm Breeze @ Yishun,Yishun Palm Breeze @ Yishun,1.4165674773128,103.840902686823
+Tengah,17-Nov-21,4Q 2024,1124,Brochure,,Parc Clover @ Tengah,Tengah Parc Clover @ Tengah,1.36068443168876,103.735582864096
+Tengah,17-Feb-22,3Q 2025,560,Brochure,,Parc Flora @ Tengah,Tengah Parc Flora @ Tengah,1.3631081955622,103.732798045252
+Tengah,17-Nov-21,4Q 2024,1008,Brochure,,Parc Glen @ Tengah,Tengah Parc Glen @ Tengah,1.3634739372787,103.740109377886
+Tengah,30-May-23,1Q 2027 – 2Q 2027,1985,Brochure,,Parc Meadow @ Tengah,Tengah Parc Meadow @ Tengah,1.365487,103.73555392947435
+Tengah,12-Aug-20,2Q 2025 – 3Q 2025,1044,Brochure,,Parc Residences @ Tengah,Tengah Parc Residences @ Tengah,1.35941522167952,103.73788984525
+Tengah,04-Feb-21,1Q 2025,767,Brochure,,Parc Woods @ Tengah,Tengah Parc Woods @ Tengah,1.36215029231495,103.735638211302
+Yishun,19-Jul-14,3Q 2017,588,Brochure,,Park Grove @ Yishun,Yishun Park Grove @ Yishun,1.42162829335003,103.841810408056
+Bidadari,04-Feb-21,1Q 2025,476,Brochure,,ParkEdge @ Bidadari,Bidadari ParkEdge @ Bidadari,1.34023519960804,103.876687264709
+Toa Payoh,17-Nov-20,1Q 2025,358,Brochure,,ParkView @ Bidadari,Toa Payoh ParkView @ Bidadari,1.33817441964824,103.875081982156
+Bukit Panjang,05-Dec-23,48 months,334,Brochure,,Petir Park Edge,Bukit Panjang Petir Park Edge,1.37489279768513,103.768024639268
+Geylang,18-May-17,4Q 2020,319,Brochure,,Pine Vista,Geylang Pine Vista,1.31001931691591,103.885548072773
+Bedok,28-Mar-12,4Q 2015,418,,Info Plans,Ping Yi Greens,Bedok Ping Yi Greens,1.32743708193286,103.922772534025
+Central,01-May-04,May-10,1848,,,Pinnacle @ Duxton,Central Pinnacle @ Duxton,1.27548808568155,103.841419048957
+Tengah,22-May-19,3Q 2022 – 4Q 2022,1193,Brochure,,Plantation Acres,Tengah Plantation Acres,1.3561912992951,103.734114100714
+Tengah,17-Feb-22,2Q 2026,713,Brochure,,Plantation Creek,Tengah Plantation Creek,1.35526035114428,103.730278245807
+Tengah,04-Oct-23,36 / 40 months,1010,Brochure,,Plantation Edge I & II,Tengah Plantation Edge I & II,1.35324637444701,103.735968354011
+Tengah,12-Nov-19,3Q 2022 – 4Q 2022,1140,Brochure,,Plantation Grange,Tengah Plantation Grange,1.35640375201259,103.731654738464
+Tengah,13-Nov-18,2Q 2023 – 3Q 2023,1620,Brochure,,Plantation Grove,Tengah Plantation Grove,1.35620059863533,103.734882658933
+Tengah,30-May-23,3Q 2027,971,Brochure,,Plantation Verge,Tengah Plantation Verge,1.3502998499999999,103.73512121390877
+Tengah,12-Nov-19,4Q 2022 – 1Q 2023,1420,Brochure,,Plantation Village,Tengah Plantation Village,1.3592172152625,103.734905102879
+Punggol,13-Nov-08,Nov-11,750,,,Punggol Arcadia,Punggol Punggol Arcadia,1.40195117908242,103.903298110373
+Punggol,22-Jan-14,1Q 2018 – 4Q 2018,1096,Brochure,Info Plans,Punggol Bayview,Punggol Punggol Bayview,1.41043765706461,103.897090463789
+Punggol,01-Jun-08,Jun-12,964,,,Punggol Breeze,Punggol Punggol Breeze,1.40209891011885,103.91174407476
+Punggol,11-Feb-10,4Q 2013,750,,Info Plans,Punggol Crest,Punggol Punggol Crest,1.39897654036134,103.900936620003
+Punggol,30-May-12,2Q 2016,688,,Info Plans,Punggol Edge,Punggol Punggol Edge,1.39420654542221,103.907615763373
+Punggol,20-Apr-10,2Q 2014,856,,Info Plans,Punggol Emerald,Punggol Punggol Emerald,1.40614015305278,103.899024316332
+Punggol,01-Oct-07,Oct-11,516,,,Punggol Lodge,Punggol Punggol Lodge,1.40386764212594,103.907991370292
+Punggol,31-Jul-12,4Q 2015,526,,Info Plans,Punggol Opal,Punggol Punggol Opal,1.40553490275139,103.89551450272
+Punggol,27-May-11,2Q 2014,682,,Info Plans,Punggol Parcvista,Punggol Punggol Parcvista,1.41020221732285,103.901502525336
+Punggol,11-Sep-19,4Q 2023 – 1Q 2024,1179,Brochure,,Punggol Point Cove,Punggol Punggol Point Cove,1.41993808818742,103.912662656099
+Punggol,28-Aug-18,1Q 2023 – 2Q 2023,1172,Brochure,,Punggol Point Cove,Punggol Punggol Point Cove,1.41993808818742,103.912662656099
+Punggol,11-Sep-19,3Q 2023 – 4Q 2023,1545,Brochure,,Punggol Point Crown,Punggol Punggol Point Crown,1.4190470208736,103.910971240743
+Punggol,28-Aug-18,1Q 2023 – 2Q 2023,940,Brochure,,Punggol Point Woods,Punggol Punggol Point Woods,1.41757631243895,103.911149293615
+Punggol,01-Dec-08,Dec-11,729,,,Punggol Regalia,Punggol Punggol Regalia,1.40271481129941,103.90189316053
+Punggol,30-Jul-09,Jul-13,769,,,Punggol Residences,Punggol Punggol Residences,1.40343165751881,103.900627183453
+Punggol,16-Nov-09,Nov-13,472,,,Punggol Ripples,Punggol Punggol Ripples,1.40145500677998,103.899421022542
+Punggol,16-Nov-09,Nov-13,606,,,Punggol Sails,Punggol Punggol Sails,1.40073574908039,103.900895823789
+Punggol,01-May-08,May-12,1065,,,Punggol Sapphire,Punggol Punggol Sapphire,1.40406378211659,103.897906951098
+Punggol,31-Aug-09,Aug-13,1142,,,Punggol Spectra,Punggol Punggol Spectra,1.4006022270466,103.911073411075
+Punggol,01-Feb-08,Feb-12,494,,,Punggol Spring,Punggol Punggol Spring,1.40331450825903,103.90967981927
+Punggol,22-Dec-10,2Q 2015,1010,,Info Plans,Punggol Topaz,Punggol Punggol Topaz,1.40420979799061,103.895638903126
+Punggol,01-Aug-07,Aug-11,628,,,Punggol Vista,Punggol Punggol Vista,1.40267403260495,103.907416144086
+Punggol,22-Jan-14,4Q 2017,570,Brochure,Info Plans,Punggol Vue,Punggol Punggol Vue,1.4131435246967,103.899526903601
+Punggol,20-Apr-10,1Q 2014,573,,Info Plans,Punggol Waves,Punggol Punggol Waves,1.39969754363832,103.899181389223
+Queenstown,23-Nov-22,4Q 2028,751,Brochure,,Queensway Canopy,Queenstown Queensway Canopy,1.290832,103.79992466817146
+Queenstown,11-Aug-21,3Q 2027,610,Brochure,,Queen’s Arc,Queenstown Queen’s Arc,1.2894242500000002,103.8012403506876
+Choa Chu Kang,21-Feb-24,45 months,465,,,Rail Garden @ CCK,Choa Chu Kang Rail Garden @ CCK,1.38649862489258,103.755200568387
+Choa Chu Kang,04-Oct-23,39 / 48 months,1895,Brochure,,Rail Green I & II @ CCK,Choa Chu Kang Rail Green I & II @ CCK,1.38422362976601,103.756520681562
+Kallang Whampoa,04-Oct-23,52 months,739,Brochure,,Rajah Residences,Kallang Whampoa Rajah Residences,1.32719579087775,103.854068155826
+Kallang Whampoa,28-Feb-23,2Q 2028,510,Brochure,,Rajah Summit,Kallang Whampoa Rajah Summit,1.3283620620075778,103.85272350945661
+Central,17-Nov-21,2Q 2028,960,Brochure,,River Peaks I & II,Central River Peaks I & II,1.30513734348219,103.856613480247
+Sengkang,30-Jun-10,1Q 2014,1120,,Info Plans,Rivervale Arc,Sengkang Rivervale Arc,1.38831599524616,103.909984297227
+Sengkang,21-Nov-12,2Q 2016,884,Brochure,Info Plans,Rivervale Delta,Sengkang Rivervale Delta,1.39088032859517,103.907868304843
+Sengkang,01-Apr-01,Apr-05,776,,,Rivervale Green,Sengkang Rivervale Green,1.392354298139,103.906260569671
+Sengkang,01-Aug-17,2Q 2022 – 3Q 2022,2500,Brochure,,Rivervale Shores,Sengkang Rivervale Shores,1.38627341845969,103.908459943359
+Yishun,26-Sep-13,1Q 2017,516,Brochure,Info Plans,Saraca Breeze @ Yishun,Yishun Saraca Breeze @ Yishun,1.41563356027215,103.844327816523
+Bukit Panjang,15-Dec-09,Dec-13,528,,Info Plans,Segar Grove,Bukit Panjang Segar Grove,1.38868132378093,103.771312569429
+Bukit Panjang,14-Jul-11,3Q 2014,300,,Info Plans,Segar Meadows,Bukit Panjang Segar Meadows,1.38729105122449,103.770822142944
+Bukit Panjang,01-Nov-07,Nov-11,412,,,Segar Meadows,Bukit Panjang Segar Meadows,1.38729105122449,103.770822142944
+Bukit Panjang,14-Jul-11,4Q 2014,682,,Info Plans,Segar Palmview,Bukit Panjang Segar Palmview,1.38900699664909,103.767795498581
+Bukit Panjang,28-Feb-11,2Q 2014,690,,Info Plans,Segar Vale,Bukit Panjang Segar Vale,1.38909687065507,103.769210717076
+Sembawang,01-Sep-06,Sep-10,471,,,Sembawang Green,Sembawang Sembawang Green,1.45602740243461,103.816100124988
+Sembawang,16-Mar-10,2Q 2014,432,,Info Plans,Sembawang Riverlodge,Sembawang Sembawang Riverlodge,1.45551208632599,103.814540285666
+Bukit Panjang,29-Jul-10,3Q 2014,741,,Info Plans,Senja Gateway,Bukit Panjang Senja Gateway,1.38627001858805,103.757571385835
+Bukit Panjang,26-Aug-08,Aug-12,474,,,Senja Green,Bukit Panjang Senja Green,1.38470704104184,103.758748217134
+Bukit Panjang,24-May-16,3Q 2021,552,Brochure,,Senja Heights,Bukit Panjang Senja Heights,1.38754014989701,103.761412754096
+Bukit Panjang,26-Oct-10,4Q 2014,577,,Info Plans,Senja Parc View,Bukit Panjang Senja Parc View,1.38734181507681,103.757970264752
+Bukit Panjang,24-May-16,2Q 2021,230,Brochure,,Senja Ridges,Bukit Panjang Senja Ridges,1.38893050188444,103.760831045726
+Bukit Panjang,24-May-16,4Q 2021,789,Brochure,,Senja Valley,Bukit Panjang Senja Valley,1.38790584193931,103.763017336135
+Serangoon,30-May-23,3Q 2027,330,Brochure,,Serangoon North Vista,Serangoon Serangoon North Vista,1.3647586999999999,103.8732243661352
+Bishan,05-Dec-23,32 months,732,Brochure,,Sin Ming Residences,Bishan Sin Ming Residences,1.35555419862284,103.838953075945
+Bukit Batok,01-Aug-17,1Q 2022,257,Brochure,,Sky Vista @ Bukit Batok,Bukit Batok Sky Vista @ Bukit Batok,1.34995908935029,103.745361698743
+Bukit Batok,21-Mar-13,4Q 2017,1430,,Info Plans,SkyPeak @ Bukit Batok,Bukit Batok SkyPeak @ Bukit Batok,1.34600531908149,103.755359110634
+Queenstown,15-Dec-09,Dec-14,758,,Info Plans,SkyTerrace @ Dawson,Queenstown SkyTerrace @ Dawson,1.29512086158743,103.81115001607
+Queenstown,15-Dec-09,Dec-14,960,,Info Plans,SkyVille @ Dawson,Queenstown SkyVille @ Dawson,1.29531966312622,103.809758591447
+Bukit Batok,28-Mar-12,2Q 2016,488,,Info Plans,Skyline I @ Bukit Batok,Bukit Batok Skyline I @ Bukit Batok,1.34463864735449,103.745002545384
+Bukit Batok,28-Mar-12,1Q 2017,744,,Info Plans,Skyline II @ Bukit Batok,Bukit Batok Skyline II @ Bukit Batok,1.34353706029376,103.746907058781
+Jurong,30-May-13,1Q 2017,478,Brochure,Info Plans,Spring Haven @ Jurong,Jurong Spring Haven @ Jurong,1.3533579932237,103.719829055981
+Sembawang,01-Sep-03,Sep-07,447,,,Spring Lodge,Sembawang Spring Lodge,1.45553596793073,103.81346991378
+Sembawang,01-Sep-03,Sep-07,432,,,Spring Lodge,Sembawang Spring Lodge,1.45553596793073,103.81346991378
+Geylang,01-Oct-06,Oct-10,447,,,Sri Geylang Serai,Geylang Sri Geylang Serai,1.31673634902959,103.898227885294
+Kallang Whampoa,24-Sep-14,1Q 2019,738,Brochure,,St. George’s Towers,Kallang Whampoa St. George’s Towers,1.3227114623559377,103.86228102295024
+Woodlands,01-Jun-08,Jun-12,382,,,Straits Vista @ Marsiling,Woodlands Straits Vista @ Marsiling,1.44131726915198,103.778405129794
+Sembawang,25-Nov-14,1Q 2018,700,Brochure,,Sun Breeze,Sembawang Sun Breeze,1.44425810224088,103.81563710184
+Sembawang,19-Jul-14,2Q 2018,848,Brochure,,Sun Natura,Sembawang Sun Natura,1.44631506781839,103.813936813705
+Tampines,30-Aug-22,2Q 2026,267,Brochure,,Sun Plaza Spring,Tampines Sun Plaza Spring,1.3585795422464,103.949531894985
+Sembawang,17-Nov-20,2Q 2025,726,Brochure,,Sun Sails,Sembawang Sun Sails,1.44287151298518,103.821490812332
+Choa Chu Kang,01-Dec-08,Dec-12,452,,,Sunshine Court,Choa Chu Kang Sunshine Court,1.37693407876395,103.738130160253
+Choa Chu Kang,12-Jan-12,2Q 2015,1528,,Info Plans,Sunshine Gardens,Choa Chu Kang Sunshine Gardens,1.37628705581631,103.738815673764
+Tampines,12-Jan-12,3Q 2014,289,,Info Plans,Tampines Alcoves,Tampines Tampines Alcoves,1.36421531545345,103.953511202271
+Tampines,14-Feb-17,3Q 2020,319,Brochure,,Tampines GreenBloom,Tampines Tampines GreenBloom,1.35350798820875,103.929903035359
+Tampines,14-Nov-17,4Q 2021 – 2Q 2022,2192,Brochure,,Tampines GreenCourt,Tampines Tampines GreenCourt,1.36375743368572,103.942057824849
+Tampines,12-Aug-20,4Q 2023,346,Brochure,,Tampines GreenCrest,Tampines Tampines GreenCrest,1.37077629232465,103.93537002153
+Tampines,06-Feb-18,3Q 2021,726,Brochure,,Tampines GreenDew,Tampines Tampines GreenDew,1.36739236053972,103.941824444979
+Tampines,25-Nov-14,4Q 2017,451,Brochure,,Tampines GreenEdge,Tampines Tampines GreenEdge,1.36370950405096,103.956145243274
+Tampines,17-Nov-20,1Q 2025,750,Brochure,,Tampines GreenEmerald,Tampines Tampines GreenEmerald,1.34004317100087,103.937376658077
+Tampines,14-Feb-17,3Q 2020,319,Brochure,,Tampines GreenFlora,Tampines Tampines GreenFlora,1.35487419110579,103.930658014258
+Tampines,06-Feb-18,3Q 2021,542,Brochure,,Tampines GreenFoliage,Tampines Tampines GreenFoliage,1.36557025507447,103.942516665406
+Tampines,29-Jan-13,2Q 2016,424,Brochure,Info Plans,Tampines GreenForest,Tampines Tampines GreenForest,1.35166373353574,103.929646035306
+Tampines,13-Nov-18,1Q 2023 – 2Q 2023,1086,Brochure,,Tampines GreenGem,Tampines Tampines GreenGem,1.34378576325913,103.936705864489
+Tampines,12-Aug-20,3Q 2023,354,Brochure,,Tampines GreenGlade,Tampines Tampines GreenGlade,1.36800229031372,103.934381544165
+Tampines,11-Sep-19,1Q 2023 – 2Q 2023,649,Brochure,,Tampines GreenGlen,Tampines Tampines GreenGlen,1.36967871127685,103.933456463315
+Tampines,11-Aug-21,3Q 2025,546,Brochure,,Tampines GreenJade,Tampines Tampines GreenJade,1.34285420691091,103.934946211761
+Tampines,27-May-11,3Q 2014,960,,Info Plans,Tampines GreenLeaf,Tampines Tampines GreenLeaf,1.3585767729711,103.938446950979
+Tampines,12-Aug-20,2Q 2025,1070,Brochure,,Tampines GreenOpal,Tampines Tampines GreenOpal,1.33805597242902,103.938627855184
+Tampines,11-Aug-21,2Q 2026,1613,Brochure,,Tampines GreenQuartz,Tampines Tampines GreenQuartz,1.34094771257859,103.939547052992
+Tampines,25-Nov-14,1Q 2019,1496,Brochure,,Tampines GreenRidges,Tampines Tampines GreenRidges,1.36118539826038,103.936343462577
+Tampines,12-Nov-19,4Q 2022 – 1Q 2023,657,Brochure,,Tampines GreenSpring,Tampines Tampines GreenSpring,1.35449039932646,103.939687442353
+Tampines,12-Jan-12,3Q 2014,295,,Info Plans,Tampines GreenTerrace,Tampines Tampines GreenTerrace,1.34750251129883,103.933531043113
+Tampines,17-Aug-16,3Q 2020 – 1Q 2021,2022,Brochure,,Tampines GreenVerge,Tampines Tampines GreenVerge,1.36098442996498,103.940666204678
+Tampines,17-Aug-16,3Q 2019 – 4Q 2019,714,Brochure,,Tampines GreenView,Tampines Tampines GreenView,1.36547139149667,103.93625034316
+Tampines,22-May-18,1Q 2022 – 2Q 2022,1271,Brochure,,Tampines GreenVines,Tampines Tampines GreenVines,1.36403668560594,103.944055875454
+Tampines,27-May-15,3Q 2019,1216,Brochure,,Tampines GreenWeave,Tampines Tampines GreenWeave,1.36441776002022,103.935558340158
+Tampines,27-May-11,2Q 2014,522,,Info Plans,Tampines GreenWood,Tampines Tampines GreenWood,1.35544681770999,103.932544278099
+Tampines,27-Sep-12,1Q 2016,380,,Info Plans,Tampines Greenlace,Tampines Tampines Greenlace,1.35608700205895,103.931752248401
+Queenstown,04-Oct-23,54 months,973,Brochure,,Tanglin Halt Cascadia,Queenstown Tanglin Halt Cascadia,1.30126794069868,103.795801715515
+Queenstown,21-Feb-24,58 months,251,,,Tanglin Halt Courtyard,Queenstown Tanglin Halt Courtyard,1.3006211376314385,103.7976046113048
+Hougang,21-Feb-24,39 months,360,,,Tanjong Tree Residences @ Hougang,Hougang Tanjong Tree Residences @ Hougang,1.34793213490424,103.886578747938
+Hougang,17-Nov-21,2Q 2026,300,Brochure,,Tanjong Tree Residences @ Hougang,Hougang Tanjong Tree Residences @ Hougang,1.34793213490424,103.886578747938
+Jurong East,22-Sep-11,4Q 2015,518,,Info Plans,Teban View,Jurong East Teban View,1.32189196960034,103.737551586606
+Ang Mo Kio,27-Sep-12,1Q 2017,576,,Info Plans,Teck Ghee Parkview,Ang Mo Kio Teck Ghee Parkview,1.36817376241157,103.857520553516
+Choa Chu Kang,06-Feb-18,2Q 2022,574,Brochure,,Teck Whye View,Choa Chu Kang Teck Whye View,1.38012990422531,103.758203987241
+Choa Chu Kang,17-Nov-15,2Q 2020,126,Brochure,,Teck Whye Vista,Choa Chu Kang Teck Whye Vista,1.37915123926616,103.758554890844
+Bukit Merah,25-May-21,1Q 2027,175,Brochure,,Telok Blangah Beacon,Bukit Merah Telok Blangah Beacon,1.27325600080614,103.808171792361
+Bukit Merah,30-Jul-13,4Q 2017,1480,Brochure,Info Plans,Telok Blangah ParcView,Bukit Merah Telok Blangah ParcView,1.27719861370751,103.807254878543
+Bukit Merah,31-Jul-12,1Q 2016,492,,Info Plans,Telok Blangah Ridgeview,Bukit Merah Telok Blangah Ridgeview,1.27631847052296,103.810719036629
+Bukit Merah,01-Oct-07,Oct-10,400,,,Telok Blangah Towers,Bukit Merah Telok Blangah Towers,1.27384250197236,103.80691876396
+Kallang Whampoa,27-Sep-12,4Q 2016,755,,Info Plans,Tenteram Peak,Kallang Whampoa Tenteram Peak,1.32769993704525,103.861236369481
+Kallang Whampoa,04-Oct-23,45 months,1040,Brochure,,Tenteram Vantage,Kallang Whampoa Tenteram Vantage,1.32902693422911,103.860696985638
+Sengkang,01-Dec-02,Dec-06,434,,,The Coris 1,Sengkang The Coris 1,1.38210845,103.89625804555888
+Sengkang,01-Sep-03,Sep-07,448,,,The Coris 2,Sengkang The Coris 2,1.381909151675,103.896656322872
+Punggol,26-Mar-09,Mar-13,519,,,The Nautilus @ Punggol,Punggol The Nautilus @ Punggol,1.39390315065765,103.913776841169
+Punggol,01-Dec-02,Dec-06,450,,,The Periwinkle,Punggol The Periwinkle,1.40147053485031,103.906702341729
+Punggol,01-Sep-03,Sep-07,425,,,The Sundial,Punggol The Sundial,1.39486577164399,103.914091270559
+Punggol,26-Sep-13,1Q 2017,481,Brochure,Info Plans,The Verandah @ Matilda,Punggol The Verandah @ Matilda,1.4031300154713,103.893295049378
+Sengkang,01-Mar-05,Mar-09,374,,,Tivela,Sengkang Tivela,1.38613601999101,103.894214395084
+Toa Payoh,19-Jul-14,4Q 2018,557,Brochure,,Toa Payoh Apex,Toa Payoh Toa Payoh Apex,1.33350386216852,103.855237846252
+Toa Payoh,21-Nov-12,3Q 2017,1007,Brochure,Info Plans,Toa Payoh Crest,Toa Payoh Toa Payoh Crest,1.33700793292517,103.842850175189
+Toa Payoh,11-Feb-20,1Q 2025,920,Brochure,,Toa Payoh Ridge,Toa Payoh Toa Payoh Ridge,1.33933396057684,103.843237122389
+Jurong East,11-Aug-21,1Q 2026,569,Brochure,,Toh Guan Grove,Jurong East Toh Guan Grove,1.34074914637525,103.745771289839
+Kallang Whampoa,12-Feb-19,3Q 2023,444,Brochure,,Towner Crest,Kallang Whampoa Towner Crest,1.31832960459766,103.859383978238
+Kallang Whampoa,11-Aug-21,4Q 2026,316,Brochure,,Towner Residences,Kallang Whampoa Towner Residences,1.32060429807423,103.856351491291
+Woodlands,27-Sep-12,2Q 2016,652,,Info Plans,TreeTrail @ Woodlands,Woodlands TreeTrail @ Woodlands,1.43807255663662,103.793613395429
+Woodlands,11-Feb-10,4Q 2014,784,,Info Plans,Treegrove,Woodlands Treegrove,1.4375511678734,103.794699670585
+Punggol,01-Mar-07,Mar-11,712,,,Treelodge,Punggol Treelodge,1.40542184460282,103.90690687992
+Geylang,06-Feb-18,4Q 2021 – 1Q 2022,1193,Brochure,,Ubi Grove,Geylang Ubi Grove,1.3273546886699,103.89964950243
+Queenstown,23-Nov-22,3Q 2029,1330,Brochure,,Ulu Pandan Banks,Queenstown Ulu Pandan Banks,1.3109505000000001,103.7814999292938
+Queenstown,28-Feb-23,2Q 2029,732,Brochure,,Ulu Pandan Glades,Queenstown Ulu Pandan Glades,1.310085,103.78312277294322
+Queenstown,05-Dec-23,59 months,890,Brochure,,Ulu Pandan Vista,Queenstown Ulu Pandan Vista,1.3117548499999998,103.77931840989304
+Woodlands,05-Dec-23,51 months,848,Brochure,,Urban Rise @ Woodlands,Woodlands Urban Rise @ Woodlands,1.43690078725739,103.783595621435
+Woodlands,12-Aug-20,2Q 2026,1785,Brochure,,UrbanVille @ Woodlands,Woodlands UrbanVille @ Woodlands,1.44003736316686,103.785283874045
+Yishun,17-Aug-16,4Q 2019 – 1Q 2020,824,Brochure,,Valley Spring @ Yishun,Yishun Valley Spring @ Yishun,1.42939025205716,103.850709781984
+Yishun,23-Nov-22,2Q 2029,961,Brochure,,Vanda Breeze @ Yishun,Yishun Vanda Breeze @ Yishun,1.42187535,103.85172357950596
+Kallang Whampoa,04-Oct-23,42 months,1143,Brochure,,Verandah @ Kallang,Kallang Whampoa Verandah @ Kallang,1.31023935554114,103.874425878326
+Yishun,30-Jul-13,4Q 2016,696,Brochure,Info Plans,Vine Grove @ Yishun,Yishun Vine Grove @ Yishun,1.4191911631409,103.841581271297
+Yishun,25-Jan-11,3Q 2014,696,,Info Plans,Vista Spring @ Yishun,Yishun Vista Spring @ Yishun,1.4199690584837,103.846969476811
+Punggol,17-Nov-15,4Q 2020,791,Brochure,,Waterfront I @ Northshore,Punggol Waterfront I @ Northshore,1.41641181359186,103.899858484155
+Punggol,17-Nov-15,4Q 2020,903,Brochure,,Waterfront II @ Northshore,Punggol Waterfront II @ Northshore,1.41771139576935,103.901707718653
+Punggol,24-Nov-11,2Q 2014,1016,,Info Plans,Waterway Banks,Punggol Waterway Banks,1.40566048045603,103.911991277154
+Punggol,22-Sep-11,3Q 2015,1312,,Info Plans,Waterway Brooks,Punggol Waterway Brooks,1.40541293819267,103.910760388311
+Punggol,31-Jul-12,3Q 2016,1009,,Info Plans,Waterway Cascadia,Punggol Waterway Cascadia,1.4084407415135,103.897170952463
+Punggol,24-Nov-11,2Q 2015,832,,Info Plans,Waterway Ridges,Punggol Waterway Ridges,1.40510759399822,103.913072367016
+Punggol,30-May-12,2Q 2016,837,,Info Plans,Waterway SunDew,Punggol Waterway SunDew,1.40285718374792,103.91677487126
+Punggol,12-Jan-12,2Q 2015,661,,Info Plans,Waterway Sunbeam,Punggol Waterway Sunbeam,1.39995758735119,103.916807583307
+Punggol,19-Jul-14,4Q 2017,582,Brochure,,Waterway Sunray,Punggol Waterway Sunray,1.39991156763461,103.919353979151
+Punggol,22-Nov-16,4Q 2020 – 1Q 2021,1295,Brochure,,Waterway Sunrise I,Punggol Waterway Sunrise I,1.39919856005266,103.92133314969
+Punggol,14-Feb-17,1Q 2021 – 2Q 2021,1014,Brochure,,Waterway Sunrise II,Punggol Waterway Sunrise II,1.39791261681286,103.920118565304
+Punggol,30-Jun-10,1Q 2015,1072,,Info Plans,Waterway Terraces,Punggol Waterway Terraces,1.40766024672347,103.899952440028
+Punggol,25-Apr-11,2Q 2015,804,,Info Plans,Waterway Terraces II,Punggol Waterway Terraces II,1.40943074276523,103.90072277552
+Punggol,26-Sep-13,3Q 2017,1057,Brochure,Info Plans,Waterway View,Punggol Waterway View,1.404032792685,103.915793755013
+Punggol,22-Sep-11,1Q 2015,694,,Info Plans,Waterway Woodcress,Punggol Waterway Woodcress,1.40197395919621,103.914426706672
+Bukit Batok,22-May-14,4Q 2017,495,Brochure,Info Plans,West Crest @ Bukit Batok,Bukit Batok West Crest @ Bukit Batok,1.35082263178052,103.738268338696
+Bukit Batok,11-Feb-15,1Q 2019,1594,Brochure,,West Edge @ Bukit Batok,Bukit Batok West Edge @ Bukit Batok,1.35934301212794,103.740364724968
+Bukit Batok,23-Nov-22,1Q 2028,790,Brochure,,West Glades @ Bukit Batok,Bukit Batok West Glades @ Bukit Batok,1.35732895,103.74617406392579
+Bukit Batok,04-Feb-21,2Q 2026,962,Brochure,,West Hill @ Bukit Batok,Bukit Batok West Hill @ Bukit Batok,1.35733694999766,103.744198659018
+Bukit Batok,24-Feb-16,2Q 2020,1655,Brochure,,West Plains @ Bukit Batok,Bukit Batok West Plains @ Bukit Batok,1.35633162419305,103.742194589628
+Bukit Batok,17-Nov-15,2Q 2019,636,Brochure,,West Quarry @ Bukit Batok,Bukit Batok West Quarry @ Bukit Batok,1.35395376726395,103.739717096448
+Bukit Batok,26-Nov-13,1Q 2018,1578,Brochure,Info Plans,West Ridges @ Bukit Batok,Bukit Batok West Ridges @ Bukit Batok,1.35572308109486,103.739303105372
+Bukit Batok,11-Feb-15,3Q 2018,448,Brochure,,West Rock @ Bukit Batok,Bukit Batok West Rock @ Bukit Batok,1.35461320218048,103.739721653959
+Bukit Batok,01-Aug-17,3Q 2021 – 4Q 2021,1140,Brochure,,West Scape @ Bukit Batok,Bukit Batok West Scape @ Bukit Batok,1.36106907624406,103.743328259815
+Bukit Batok,24-Sep-14,1Q 2018,1793,Brochure,,West Terra & Bukit Batok,Bukit Batok West Terra & Bukit Batok,1.35251059054082,103.744082876998
+Bukit Batok,22-May-14,1Q 2018,924,Brochure,Info Plans,West Valley @ Bukit Batok,Bukit Batok West Valley @ Bukit Batok,1.35269613917058,103.739809933376
+Kallang Whampoa,29-Jan-13,2Q 2017,405,Brochure,Info Plans,Whampoa Dew,Kallang Whampoa Whampoa Dew,1.32487617789478,103.855541044499
+Woodlands,25-May-21,3Q 2025,1540,Brochure,,Woodgrove Ascent,Woodlands Woodgrove Ascent,1.43243722231677,103.783473631361
+Woodlands,21-Feb-24,39/39 months,1127,,,Woodgrove Edge,Woodlands Woodgrove Edge,1.42860385,103.78429323775367
+Woodlands,05-Dec-23,50 months,399,Brochure,,Woodlands Beacon,Woodlands Woodlands Beacon,1.43543605650821,103.782333385592
+Woodlands,21-Sep-10,2Q 2014,789,,Info Plans,Woodlands Dew,Woodlands Woodlands Dew,1.44834155029683,103.801057143543
+Woodlands,06-Feb-18,4Q 2021,629,Brochure,,Woodlands Glade,Woodlands Woodlands Glade,1.44892009364745,103.803142113357
+Woodlands,22-Jan-14,2Q 2017,888,Brochure,Info Plans,Woodlands Glen,Woodlands Woodlands Glen,1.42968120982977,103.79721983981
+Woodlands,21-Sep-10,2Q 2014,540,,Info Plans,Woodlands Meadow,Woodlands Woodlands Meadow,1.44822635537273,103.803579736571
+Woodlands,30-May-13,2Q 2017,1018,Brochure,Info Plans,Woodlands Pasture I,Woodlands Woodlands Pasture I,1.44781509561923,103.804120401315
+Woodlands,30-May-13,2Q 2017,1018,Brochure,Info Plans,Woodlands Pasture II,Woodlands Woodlands Pasture II,1.4470866052223,103.804996805647
+Woodlands,27-May-11,3Q 2015,222,,Info Plans,Woodlands Peak,Woodlands Woodlands Peak,1.43185558749484,103.775294044439
+Woodlands,30-Aug-22,1Q 2027,630,Brochure,,Woodlands South Plains,Woodlands Woodlands South Plains,1.4268895000000001,103.79574214517578
+Woodlands,18-May-17,4Q 2020,172,Brochure,,Woodlands Spring,Woodlands Woodlands Spring,1.44649088665839,103.799917492509
+Bidadari,22-Nov-16,2Q 2021,688,Brochure,,Woodleigh Glen,Bidadari Woodleigh Glen,1.34099434168384,103.872647714702
+Bidadari,18-May-17,1Q 2022 – 2Q 2022,1355,Brochure,,Woodleigh Hillside,Bidadari Woodleigh Hillside,1.34279948643004,103.875178060687
+Bidadari,22-Nov-16,3Q 2021,330,Brochure,,Woodleigh Village,Bidadari Woodleigh Village,1.34037360349272,103.872220917139
+Ang Mo Kio,12-Nov-19,4Q 2023,454,Brochure,,Yio Chu Kang Beacon,Ang Mo Kio Yio Chu Kang Beacon,1.3830203830033,103.841780326812
+Ang Mo Kio,22-Sep-11,4Q 2014,256,,Info Plans,Yio Chu Kang Vista,Ang Mo Kio Yio Chu Kang Vista,1.37769118043958,103.84274515222
+Yishun,27-May-22,2Q 2026,646,Brochure,,Yishun Beacon,Yishun Yishun Beacon,1.42429399247954,103.835696050981
+Yishun,17-Feb-22,2Q 2025,852,Brochure,,Yishun Boardwalk,Yishun Yishun Boardwalk,1.43278004173205,103.847204052627
+Yishun,28-Aug-18,4Q 2021 – 2Q 2022,1693,Brochure,,Yishun Glen,Yishun Yishun Glen,1.43094734327592,103.846905807418
+Yishun,18-Nov-10,3Q 2014,1176,,Info Plans,Yishun Greenwalk,Yishun Yishun Greenwalk,1.43268642400774,103.842020129643
+Yishun,14-Jul-11,4Q 2014,364,,Info Plans,Yishun Natura,Yishun Yishun Natura,1.43025248776361,103.844455161902
+Yishun,31-Aug-10,4Q 2014,1408,,Info Plans,Yishun Riverwalk,Yishun Yishun Riverwalk,1.43166143088229,103.845071339677
+Jurong West,24-Sep-14,2Q 2018,641,Brochure,,Yung Ho Spring I,Jurong West Yung Ho Spring I,1.32686665903092,103.72342292672
+Jurong West,24-Sep-14,2Q 2018,266,Brochure,,Yung Ho Spring II,Jurong West Yung Ho Spring II,1.32724211434074,103.722352699939
+Jurong West,26-Nov-13,3Q 2017,528,Brochure,Info Plans,Yung Kuang Court,Jurong West Yung Kuang Court,1.33043562620076,103.721499256737
